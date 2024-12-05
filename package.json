@@ -1,0 +1,24 @@
+{
+  "name": "saruki",
+  "version": "6.0.0",
+  "description": "Stuff for saruki",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "BillyH#0167",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "date-and-time": "^2.0.1",
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "lodash": "^4.17.20",
+    "noblox.js": "^4.8.3",
+    "node": "^16.13.1",
+    "node-fetch": "^2.6.1"
+  }
+}
